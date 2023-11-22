@@ -1,0 +1,12 @@
+.caixa {
+    background-color: rgb(36, 36, 112);
+    width: 200px;
+    height:200px;
+}
+
+/*entre 150px e 200px*/
+@media (min-width:773px) and (max-width: 1100px) {
+    *{
+        background-color: rgb(179, 67, 86);
+    }
+}

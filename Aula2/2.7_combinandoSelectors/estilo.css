@@ -1,0 +1,30 @@
+h2{
+    color: rgb(16, 104, 16)
+}
+h5{
+    color: rgba(121, 76, 45, 0.89);
+    font-size: 20px;
+}
+p{
+    color: rgb(164, 87, 236)
+}
+li{
+    list-style-type:circle;
+}
+ul{
+    color:rgb(177, 114, 69);
+}
+.caixa > .moveis, .caixa > .Roupas{
+    color:rgb(70, 151, 151)
+}
+
+.alimentos{
+    color:rgb(62, 78, 78)
+}
+
+.usada{
+    color: red;
+}
+.moveis > .usada{
+    color: rgb(53, 53, 121)
+}

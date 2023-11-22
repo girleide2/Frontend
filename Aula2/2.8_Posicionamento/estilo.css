@@ -1,0 +1,49 @@
+div{
+    position: relative;
+    top: 15px;
+    left: 15px;
+    height: 15px;
+}
+#caixa5{
+    position: relative;
+    left: 150px;
+}
+#caixa{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(168, 44, 44);
+}
+#caixa2{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    border-radius: 70%;
+}
+#caixa3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 39, 39);
+}
+#caixa4{
+    position: relative;
+    left: 15px;
+    top: 15px;
+
+    height: 50px;
+    width: 50px;
+    background-color: rgb(245, 188, 83);
+}
+#caixa5{
+    height: 20px;
+    width: 300px;
+    background-color: rgb(184, 124, 15);
+    position: relative;
+    top: 550px;
+    left: 380px;
+}
+
+#caixa6{
+    height: 20px;
+    width: 300px;
+    background-color: rgb(250, 223, 174);
+}

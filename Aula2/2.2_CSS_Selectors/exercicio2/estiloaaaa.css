@@ -1,0 +1,33 @@
+h1{
+    background-image: linear-gradient(rgb(179, 6, 6), rgb(236, 104, 126), white);
+    font-family: 'Sue Ellen Francisco', cursive;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: rgb(63, 18, 18)
+}
+#amarelo {
+    color:rgb(247, 204, 13);
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 25px;
+}
+#vermelho{
+    color:red;
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 25px;
+}
+#azul{
+    color: rgb(34, 155, 255);
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 25px;
+}
+#marron{
+    color: rgb(185, 131, 106);
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 25px;
+}
+#violeta{
+    color:rgb(109, 43, 170);
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 25px;
+}
