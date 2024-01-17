@@ -13,7 +13,7 @@ export class AppComponent {
         resolve("Promise resolvida");
       }, 2000)});
     
-  
+  dataDeHoje = new Date();
 
   //utilizando async await
   getNomePaises(){
