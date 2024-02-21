@@ -1,0 +1,16 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap" rel="stylesheet">
+
+<form (ngSubmit)="submitForm(form)" #form="ngForm">
+    <div class="title">Compra e venda de carro</div>
+    <div id="formulario">
+        <div><input name="modelo" placeholder="Modelo" ngModel><br></div>
+        <div><input name="marca" placeholder="Marca" ngModel><br></div>
+        <div><input name="ano" placeholder="Ano"ngModel><br></div>
+        <div><input name="valor" placeholder="Valor"  ngModel><br></div>
+        <div><input name="cor" placeholder="Cor"ngModel><br></div>
+        <div><input name="foto" placeholder='Insira a URL da foto' name="foto" ngModel><br></div>
+        <div><button id="submeter" type="submit">Submeter</button></div>
+    </div>
+</form>

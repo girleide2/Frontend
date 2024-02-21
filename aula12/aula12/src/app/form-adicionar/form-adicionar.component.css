@@ -1,0 +1,32 @@
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+.title{
+    font-family: "Protest Strike", sans-serif;
+    margin-bottom: 5px;
+    background-color: pink;
+   
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+div{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+}
+#formulario{
+    background-color: rgb(199, 144, 153);
+    height: 400px;
+    width: 300px;
+    border-radius: 20px;
+    border-style: groove;
+    border-color: rgb(184, 135, 142);
+}
